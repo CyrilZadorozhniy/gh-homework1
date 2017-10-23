@@ -1,0 +1,36 @@
+body {
+  margin: 0; }
+
+th, td {
+  padding: 10px 0; }
+
+.one {
+  margin: auto;
+  width: 100%;
+  border: 1px solid black; }
+  .one tr th {
+    border: 1px solid black; }
+  .one tr td {
+    border: 1px solid black; }
+
+.two {
+  width: 60%;
+  margin: 30px auto;
+  border: 1px solid black; }
+  .two tr th {
+    border: 1px solid black; }
+  .two tr td {
+    border: 1px solid black; }
+
+.three {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #9f9f9f;
+  border-spacing: 0px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.86);
+  width: 60%;
+  margin: 30px auto; }
+  .three tr th {
+    border: 1px solid #5a5a5a; }
+  .three tr td {
+    border: 1px solid #5a5a5a; }
